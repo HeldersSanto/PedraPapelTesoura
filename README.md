@@ -1,7 +1,7 @@
 # PedraPapelTesoura
 pedra papel e tesoura usando Vanilla JS. Usando e aprimorando a manipulação do DOM
 
-<a _target="blank" href="https://HeldersSanto.gitub.io/PedraPapelTesoura">Veja o projeto cliando aqui</a>
+<a target="_blank" href="https://HeldersSanto.github.io/PedraPapelTesoura">Veja o projeto cliando aqui</a>
 
 <img src=PedraPapelTesoura.png width=500px/>
 
